@@ -1,0 +1,39 @@
+body {
+    background-color: lightblue;
+}
+
+h1 {
+    color: white;
+    text-align: center;
+}
+
+p {
+    font-family: Serif;
+    font-size: 20px;
+}
+h2 {
+  color: white;
+  text-align: center;
+}
+ins {
+  color: red;
+  font-size: 20px;
+}
+em {
+  color: green;
+  font-size: 20px;
+}
+strong {
+  font-size: 20px;
+}
+table, td, th {
+    border: 1px solid black;
+    font-size: 20px;
+}
+table {
+    border-collapse: collapse;
+    width: 100%;
+}
+th {
+    height: 50px;
+}
